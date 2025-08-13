@@ -25,7 +25,7 @@ return true;
 }
 int main(){
     string s1="vishwasab";
-string s2="vsshwaiba";
+string s2="vsshwai";
 if(check(s1,s2)){
     cout<<"true";
 }
