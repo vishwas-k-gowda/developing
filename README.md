@@ -1,2 +1,0 @@
-# developing
-author-vishwas
